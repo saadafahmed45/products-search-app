@@ -20,9 +20,9 @@ const SingleProducts = ({ product }) => {
             </div>
             <div className='text-right'>
 
-               {/* <Link href={`/products/${id}`}
+               <Link href={`/products/${id}`}
 
-                  className='text-right text-cyan-500 text-sm'>See More..</Link> */}
+                  className='text-right text-cyan-500 text-sm'>See More..</Link>
             </div>
          </div>
 

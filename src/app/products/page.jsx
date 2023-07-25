@@ -12,6 +12,8 @@ const Products = () => {
          .then(response => response.json())
          .then(data => setProduct(data.products));
    }, []);
+
+
    // data fetch end
 
    // data filtering start
