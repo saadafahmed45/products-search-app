@@ -7,8 +7,8 @@ const Navbar = () => {
             <h2 className="text-3xl ">Shopper</h2>
             <ul className="flex gap-8 text-xl font-semibold text-slate-900">
                <li><a href="/">Home</a></li>
-               <li><a href="/products">Product</a></li>
-               <li><a href="/">Service</a></li>
+               <li><a href="/products">Search</a></li>
+               <li><a href="/about">Products</a></li>
                <li><a href="/">contact</a></li>
             </ul>
          </nav>
